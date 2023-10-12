@@ -5,9 +5,8 @@ import Col from "react-bootstrap/Col";
 import TodoList from "./components/todolist";
 
 const App = () => {
-  
 	return (
-		<Container className='mt-5'>
+		<Container className="mt-5">
 			<Row>
 				<Col>
 					<TodoList/>
